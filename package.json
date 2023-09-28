@@ -9,7 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@ant-design/pro-components": "^2.6.4",
+    "@plasmicapp/cli": "^0.1.309",
     "@plasmicapp/loader-nextjs": "^1.0.312",
+    "@plasmicapp/react-web": "^0.2.257",
+    "@plasmicpkgs/antd5": "^0.0.130",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.179",
+    "@plasmicpkgs/plasmic-rich-components": "^1.0.130",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
