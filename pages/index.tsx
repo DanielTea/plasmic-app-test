@@ -2,9 +2,9 @@
 // This file is owned by you, feel free to edit as you see fit.
 import * as React from "react";
 import * as ph from "@plasmicapp/react-web/lib/host";
-import GlobalContextsProvider from "../components/plasmic/tutorial_app_in_5_minutes/PlasmicGlobalContextsProvider";
-import { ScreenVariantProvider } from "../components/plasmic/tutorial_app_in_5_minutes/PlasmicGlobalVariant__Screen";
-import { PlasmicHomepage } from "../components/plasmic/tutorial_app_in_5_minutes/PlasmicHomepage";
+import GlobalContextsProvider from "../components/plasmic/app_starter/PlasmicGlobalContextsProvider";
+import { ScreenVariantProvider } from "../components/plasmic/app_starter/PlasmicGlobalVariant__Screen";
+import { PlasmicHomepage } from "../components/plasmic/app_starter/PlasmicHomepage";
 import { useRouter } from "next/router";
 
 function Homepage() {

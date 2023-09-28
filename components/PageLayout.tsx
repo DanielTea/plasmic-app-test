@@ -4,7 +4,7 @@ import * as React from "react";
 import {
   PlasmicPageLayout,
   DefaultPageLayoutProps
-} from "./plasmic/tutorial_app_in_5_minutes/PlasmicPageLayout";
+} from "./plasmic/app_starter/PlasmicPageLayout";
 
 // Your component props start with props for variants and slots you defined
 // in Plasmic, but you can add more here, like event handlers that you can
